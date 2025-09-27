@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eya Lahyani</h1>
 <h3 align="center">Étudiante en Master Intelligence Artificielle à Le Mans Université</h3>
+
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
