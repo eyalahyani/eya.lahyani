@@ -83,13 +83,6 @@ Je suis une personne **curieuse, motivée et flexible**, capable de m’adapter 
 
 ---
 
-### 📈 Statistiques GitHub
-
-![Eya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyalahyani&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyalahyani&layout=compact&theme=radical)
-
----
-
 ### 📫 Me contacter
 
 [![Email](https://img.shields.io/badge/Email-Eya.Lahyani.Etu@univ--lemans.fr-blue)](mailto:Eya.Lahyani.Etu@univ-lemans.fr)  
@@ -101,6 +94,6 @@ Je suis une personne **curieuse, motivée et flexible**, capable de m’adapter 
 ### 🙋‍♀️ En recherche de stage !
 
 Je suis actuellement **en recherche active de stage** pour valider ma première année de Master.  
-> 📍 Disponibilité : Disponibilité : à partir d’avril 2026
+> 📍 Disponibilité : Disponibilité : à partir d’avril 2026                                                                                                                                
 > 📅 Durée : flexible  
 > 🌍 Localisation : France ou télétravail
