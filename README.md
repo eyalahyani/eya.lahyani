@@ -13,8 +13,6 @@ Actuellement en **1ère année de Master en Intelligence Artificielle** à l’U
 Ce Master représente pour moi une opportunité de **diversifier mes connaissances** et de renforcer mes bases en **ingénierie logicielle, microservices et DevOps**, tout en m’ouvrant à des problématiques modernes liées à l’intelligence artificielle.
 
 Je suis une personne **curieuse, motivée et flexible**, capable de m’adapter rapidement aux nouvelles technologies.  
-💡 Même si je découvre certains domaines, je sais clairement **où je veux aller** : contribuer à des projets techniques concrets, apprendre au contact des professionnels et progresser dans un **environnement technologique stimulant**.
-
 
 
 ---
