@@ -32,14 +32,6 @@
 - 🧾 **App de facturation et suivi réparations**  
   → PHP, MySQL
 
----
-
-### 📈 Statistiques GitHub
-
-![Eya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyalahyani&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyalahyani&layout=compact&theme=radical)
-
----
 
 ### 🌐 Réseaux Sociaux
 
