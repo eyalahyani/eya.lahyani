@@ -87,7 +87,7 @@
 💼 [LinkedIn](https://www.linkedin.com/in/eya-lahyani-9284172a4/) |  
 💻 [GitHub](https://github.com/eyalahyani)  
 
-📄 [**Télécharger mon CV (PDF)**](https://github.com/eyalahyani/eyalahyani/blob/main/CV_Eya_Lahyani_V2.pdf)
+📄 [**Télécharger mon CV (PDF)**](https://raw.githubusercontent.com/eyalahyani/eyalahyani/main/CV_Eya_Lahyani_V2.pdf)
 
 ---
 
