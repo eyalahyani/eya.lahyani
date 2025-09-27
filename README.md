@@ -82,13 +82,6 @@
 
 ---
 
-## 🏆 Trophées GitHub
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eyalahyani&theme=radical&margin-w=10&margin-h=10" alt="trophies" />
-</p>
-
----
-
 ## 📫 Me contacter
 📧 [Email](mailto:Eya.Lahyani.Etu@univ-lemans.fr) |  
 💼 [LinkedIn](https://www.linkedin.com/in/eya-lahyani-9284172a4/) |  
