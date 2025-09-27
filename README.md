@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#6a1b9a">Eya Lahyani</span></h1>
-<h3 align="center">💡 Étudiante en Master Intelligence Artificielle | Développeuse Full Stack | Passionnée de technologies</h3>
+<h1 align="center">Salut 👋, je suis <span style="color:#6a1b9a">Eya Lahyani</span></h1>
+<h3 align="center">💡 Étudiante en Master Informatique| Développeuse Full Stack | Passionnée par les nouvelles technologies</h3>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
