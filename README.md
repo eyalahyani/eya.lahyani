@@ -18,7 +18,6 @@
 ## 🚀 Objectif Professionnel
 ✨ Actuellement en **1ère année de Master IA**, je recherche un **stage dès avril 2026** pour :  
 - Valoriser mes compétences en **Full Stack (Java, Angular, Spring Boot)**  
-- Explorer les défis liés à l’**Intelligence Artificielle appliquée**  
 - Contribuer à des projets concrets et innovants dans un **environnement stimulant**  
 
 💪 Je suis **curieuse, motivée et flexible**, toujours prête à apprendre et à relever de nouveaux défis !  
