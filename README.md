@@ -101,19 +101,6 @@ Je suis une personne **curieuse, motivée et flexible**, capable de m’adapter 
 ### 🙋‍♀️ En recherche de stage !
 
 Je suis actuellement **en recherche active de stage** pour valider ma première année de Master.  
-> 📍 Disponibilité : immédiate  
+> 📍 Disponibilité : Disponibilité : à partir d’avril 2026
 > 📅 Durée : flexible  
 > 🌍 Localisation : France ou télétravail
-
----
-
-## 💬 Merci pour votre visite sur mon profil !
-
----
-
-Souhaites-tu que je :
-- 📎 L’exporte en `.md` prêt à copier/coller ?
-- 🧠 Génère aussi un **portfolio site web** avec ce contenu ?
-- 🧩 Ajoute une animation ou un compteur de visiteurs dans ton `README` ?
-
-Dis-moi et je t’accompagne pour la suite 🚀
