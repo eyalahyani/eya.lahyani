@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eya Lahyani</h1>
-<h3 align="center">Étudiante en Master Intelligence Artificielle à Le Mans Université</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#6a1b9a">Eya Lahyani</span></h1>
+<h3 align="center">💡 Étudiante en Master Intelligence Artificielle | Développeuse Full Stack | Passionnée de technologies</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
@@ -7,23 +7,24 @@
 
 ---
 
-🎓 **Parcours Académique**
-- 🎓 Master Informatique – IA – Le Mans Université (2025 - 2027)  
-- 🎓 Double diplôme de Licence – Le Mans Université (2024 - 2025)  
-- 🎓 Licence en Informatique Appliquée à la Gestion – FSEGS, Sfax (2022 - 2025)
-
-💼 **Objectif**
-
-Actuellement en **1ère année de Master en Intelligence Artificielle** à l’Université du Mans, je suis **à la recherche d’un stage** qui me permette de valoriser mes compétences en **développement Full Stack** (Java, Angular, Spring Boot) acquises lors de ma licence, tout en explorant de nouveaux horizons dans l’**IA appliquée**.
-
-Ce Master représente pour moi une opportunité de **diversifier mes connaissances** et de renforcer mes bases en **ingénierie logicielle, microservices et DevOps**, tout en m’ouvrant à des problématiques modernes liées à l’intelligence artificielle.
-
-Je suis une personne **curieuse, motivée et flexible**, capable de m’adapter rapidement aux nouvelles technologies.  
-
+## 🎓 Parcours Académique
+- 🎓 **Master Informatique – IA** – *Le Mans Université* (2025 - 2027)  
+- 🎓 **Double diplôme de Licence** – *Le Mans Université* (2024 - 2025)  
+- 🎓 **Licence en Informatique Appliquée à la Gestion** – *FSEGS, Sfax* (2022 - 2025)  
 
 ---
 
-### 🛠️ Compétences Techniques
+## 🚀 Objectif Professionnel
+✨ Actuellement en **1ère année de Master IA**, je recherche un **stage dès avril 2026** pour :  
+- Valoriser mes compétences en **Full Stack (Java, Angular, Spring Boot)**  
+- Explorer les défis liés à l’**Intelligence Artificielle appliquée**  
+- Contribuer à des projets concrets et innovants dans un **environnement stimulant**  
+
+💪 Je suis **curieuse, motivée et flexible**, toujours prête à apprendre et à relever de nouveaux défis !  
+
+---
+
+## 🛠️ Stack & Outils
 
 **Langages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -48,58 +49,58 @@ Je suis une personne **curieuse, motivée et flexible**, capable de m’adapter 
 
 ---
 
-### 💼 Expériences Professionnelles
-
+## 💼 Expériences Professionnelles
 **One Tech Business Solutions** – Tunis 🇹🇳  
 *Stagiaire Full Stack – Janvier 2025 à Juin 2025*  
-- Développement d’une application de gestion de parc automobile (Spring Boot, Angular, Keycloak, PostgreSQL)  
-- Intégration des bonnes pratiques DevOps et réalisation de tests
+- Développement d’une application de gestion de parc automobile  
+- Techs : Spring Boot, Angular, Keycloak, PostgreSQL  
+- Intégration DevOps & réalisation de tests
 
 **One Tech Business Solutions** – Ariana 🇹🇳  
 *Stagiaire été – Juillet 2024 à Août 2024*  
-- Assistance à la maintenance des applications internes  
-- Participation au développement agile
+- Maintenance des applications internes  
+- Développement agile en équipe
 
 ---
 
-### 📌 Projets Académiques
-
-- 🚗 **Gestion de parc automobile**  
-  Stack : Spring Boot, Angular, PostgreSQL, Keycloak
-
-- 🔧 **Atelier mécanique**  
-  Stack : Spring Boot, React, MySQL
-
-- 🧾 **Facturation et gestion réparations**  
-  Stack : PHP, MySQL
+## 📌 Projets Académiques
+- 🚗 **Gestion de parc automobile** – *Spring Boot, Angular, PostgreSQL, Keycloak*  
+- 🔧 **Atelier mécanique** – *Spring Boot, React, MySQL*  
+- 🧾 **Facturation et gestion réparations** – *PHP, MySQL*  
 
 ---
 
-### 📜 Certifications
-
+## 📜 Certifications
 - ✅ **Scrum Fundamentals Certified** – SCRUMstudy (2024)
 
 ---
 
-### 🌐 Langues
-
+## 🌐 Langues
 - 🇫🇷 Français : Courant  
 - 🇹🇳 Arabe : Langue maternelle  
-- 🇬🇧 Anglais : Intermédiaire
+- 🇬🇧 Anglais : Intermédiaire  
 
 ---
 
-### 📫 Me contacter
-
-[![Email](https://img.shields.io/badge/Email-Eya.Lahyani.Etu@univ--lemans.fr-blue)](mailto:Eya.Lahyani.Etu@univ-lemans.fr)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eya-lahyani-9284172a4/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/eyalahyani)
+## 🏆 Trophées GitHub
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eyalahyani&theme=radical&margin-w=10&margin-h=10" alt="trophies" />
+</p>
 
 ---
 
-### 🙋‍♀️ En recherche de stage !
+## 📫 Me contacter
+📧 [Email](mailto:Eya.Lahyani.Etu@univ-lemans.fr) |  
+💼 [LinkedIn](https://www.linkedin.com/in/eya-lahyani-9284172a4/) |  
+💻 [GitHub](https://github.com/eyalahyani)  
 
+📄 [**Télécharger mon CV (PDF)**](https://github.com/eyalahyani/eyalahyani/blob/main/CV_Eya_Lahyani_V2.pdf)
+
+---
+
+## 🙋‍♀️ En recherche de stage !
 Je suis actuellement **en recherche active de stage** pour valider ma première année de Master.  
-> 📍 Disponibilité : Disponibilité : à partir d’avril 2026                                                                                                                                
-> 📅 Durée : flexible  
-> 🌍 Localisation : France ou télétravail
+
+> 📍 **Disponibilité** : à partir d’avril 2026  
+> 📅 **Durée** : flexible  
+> 🌍 **Localisation** : France ou télétravail
