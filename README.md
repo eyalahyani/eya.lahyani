@@ -7,7 +7,12 @@
 - 🎓 Licence en Informatique Appliquée à la Gestion – FSEGS, Sfax (2022 - 2025)
 
 💼 **Objectif**
-> Actuellement en **1ère année de Master**, je suis **à la recherche d’un stage** dans le développement **Full Stack** (Java/Angular), **DevOps** ou **Microservices** dans un environnement technologique stimulant.
+> Actuellement en **1ère année de Master en Intelligence Artificielle** à l’Université du Mans, je suis **à la recherche d’un stage** me permettant de valoriser à la fois mes **compétences acquises en développement Full Stack** (Java, Angular, Spring Boot) issues de ma licence, et d’explorer les **nouveaux défis offerts par l’IA**.
+
+Ce Master représente pour moi une réelle opportunité de **diversifier mes connaissances**, tout en consolidant mes bases en **ingénierie logicielle, microservices, DevOps** et en découvrant de nouvelles problématiques dans le domaine de l’**intelligence artificielle appliquée**.
+
+Je suis curieuse, motivée, et prête à relever des défis dans un **environnement technologique stimulant**.
+
 
 ---
 
