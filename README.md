@@ -77,9 +77,9 @@ Je suis une personne **curieuse, motivée et flexible**, capable de m’adapter 
 
 ### 🌐 Langues
 
-- 🇫🇷 Français : Courant (bilingue universitaire)  
+- 🇫🇷 Français : Courant  
 - 🇹🇳 Arabe : Langue maternelle  
-- 🇬🇧 Anglais : Intermédiaire (lu, écrit, parlé)
+- 🇬🇧 Anglais : Intermédiaire
 
 ---
 
