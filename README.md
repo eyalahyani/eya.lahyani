@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
+
+---
+
 🎓 **Parcours Académique**
 - 🎓 Master Informatique – IA – Le Mans Université (2025 - 2027)  
 - 🎓 Double diplôme de Licence – Le Mans Université (2024 - 2025)  
