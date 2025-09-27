@@ -45,6 +45,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
@@ -56,7 +57,7 @@
 - Techs : Spring Boot, Angular, Keycloak, PostgreSQL  
 - Intégration DevOps & réalisation de tests
 
-**One Tech Business Solutions** – Ariana 🇹🇳  
+**One Tech Business Solutions** – Tunis 🇹🇳  
 *Stagiaire été – Juillet 2024 à Août 2024*  
 - Maintenance des applications internes  
 - Développement agile en équipe
