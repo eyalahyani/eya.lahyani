@@ -5,7 +5,7 @@
 - 💻 Je travaille actuellement sur des projets full stack avec **Spring Boot**, **Angular**, et **PostgreSQL**  
 - 🔐 Intéressée par la sécurité (Keycloak, Auth, RBAC)  
 - 🚀 Passionnée par le développement web, DevOps et les architectures distribuées  
-- 📫 Contact : [eyalahyani.info@gmail.com](mailto:eyalahyani.info@gmail.com)
+- 📫 Contact : [eyalahyani.info@gmail.com](mailto:Eya.Lahyani.Etu@univ-lemans.fr)
 
 ---
 
